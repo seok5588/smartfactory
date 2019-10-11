@@ -12,6 +12,11 @@
  * 대학교
  * 고등학교
 ```
-123123
-1231
+#include <stdio.h>
+
+int main()
+{
+	printf("helo wored..");
+	return 0;
+}
 ```
