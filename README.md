@@ -1,4 +1,4 @@
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # 소개
 * 석영수
 * Emaill : seok5588@naver.com
