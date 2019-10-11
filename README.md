@@ -1,4 +1,4 @@
-# 소개
+### 소개
 ## 석영수
 ## Emaill : seok5588@naver.com  
 # 경력
