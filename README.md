@@ -1,4 +1,7 @@
-Markdown. You can even [link to Google!](http://google.com)
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # 소개
 * 석영수
 * Emaill : seok5588@naver.com
