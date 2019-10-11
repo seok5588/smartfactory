@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/seok5588/test/blob/master/test.png?raw=true)
+![Image of Yaktocat](https://github.com/seok5588/smartfactory/blob/master/test.png?raw=true)
 ### 소개
  * 석영수
  * Emaill : seok5588@naver.com
